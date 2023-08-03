@@ -5,5 +5,8 @@
       "@/*": ["/*"],
       "@/components": ["./*"]
     }
+  },
+  "resolve": {
+    "extensions": [".js", ".jsx"]
   }
 }
